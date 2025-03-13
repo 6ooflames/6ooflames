@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @6ooflames
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python, C and Shell Script
-- 💞️ I’m looking to collaborate on NeRF and Game Design Projects
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Software Design Projects
 - 📫 How to reach me: davidrobertkochelsdorf...at...web...dot...de
 
 <!---
