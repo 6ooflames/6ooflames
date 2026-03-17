@@ -1,14 +1,3 @@
-Instaffo Bio (Modern & Concise)
-
-Headline: Systems Architect | DevOps & Cloud Engineering | Agentic AI Orchestration
-
-About Me:
-I am a "Systems Synthesizer" who bridges the gap between bare-metal infrastructure and the cutting edge of Agentic AI. With a background in Junior DevOps (Deutsche Telekom) and Cloud Engineering (Imos), I specialize in securing and optimizing high-performance environments—from Proxmox macOS virtualization to local LLM backends (Ollama/Mistral).
-
-I don't just maintain servers; I perform systematic 10-phase security audits, manage VRAM/Shared-Memory constraints for local AI, and design agentic workflows that integrate LLMs into complex software ecosystems. I am looking for roles where technical precision meets the future of AI infrastructure.
-
-GitHub Profile README (The "Landing Page")
-
 # 👋 I'm David Robert Koch
 **Systems Architect | DevOps Engineer | Technical Artist**
 
