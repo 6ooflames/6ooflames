@@ -13,10 +13,11 @@ I approach code, infrastructure, and geopolitics as interconnected systems. My w
 - **CHIM AI Integration:** Orchestrating local LLM backends for real-time agentic game NPCs.
 - **Project Butter:** Co-founding and managing a cross-border high-convenience app ecosystem.
 - **MS-A1 Audit:** 10-phase security hardening plan for high-performance mini-PCs.
-  
+```mermaid.js
 graph TD
   A[User Request] --> B{Agentic Router}
   B -->|Query| C[Vector DB / RAG]
   B -->|Inference| D[Local Ollama Instance]
   D --> E[Quantized Mistral/Qwen]
   E --> F[Verified Output]
+```
