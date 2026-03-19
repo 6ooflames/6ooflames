@@ -65,7 +65,7 @@ Agentic Systems        Prompt Engineering    Photoscan/Modeling
 | **[`6ooflames`](https://github.com/6ooflames/6ooflames)** | GitHub profile configuration | Markdown, Mermaid | ⭐ |
 
 **Coming Soon:**
-- `CHIM-AI-Infrastructure` - Agentic routing system for local LLM backends (private)
+- `ELENA-Infrastructure` - Agentic routing system for local LLM backends (private)
 - `Blender-Showcase` - Interactive 3D renders with GLB/WebGL viewer (in progress)
 
 ---
